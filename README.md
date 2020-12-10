@@ -1,3 +1,5 @@
 # Go
 
-![Go report card](https://goreportcard.com/badge/github.com/Totoro700/go)
+---
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/Totoro700/go)](https://goreportcard.com/report/github.com/Totoro700/go)
