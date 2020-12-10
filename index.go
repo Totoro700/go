@@ -7,7 +7,7 @@ import (
 func main(){
     fmt.Println("Hello!")
     fmt.Println("What is 1 * 1?")
-    var input;
+    string input;
     fmt.Scanline(&input)
     if (input == "1"){
 		fmt.Println("Correct!")
