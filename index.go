@@ -27,8 +27,8 @@ SOFTWARE.
 
 package main
 
-import "fmt"
+import "fmt -s"
 
 func main(){
-  fmt.Println("Hello!")
+    fmt.Println("Hello!")
 }
