@@ -1,7 +1,7 @@
 package main
 
 import (
-    "fmt -s"
+    "fmt"
 )
 
 func main(){
