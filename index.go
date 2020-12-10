@@ -1,6 +1,8 @@
 package main
 
-import "fmt -s";
+import (
+    "fmt"
+)
 
 func main(){
     fmt.Println("Hello!")
